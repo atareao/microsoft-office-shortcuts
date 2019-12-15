@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name = Microsoft Sway
+Comment = Microsoft Sway Online App
+Exec = xdg-open 'https://sway.office.com/'
+Terminal=false
+Type=Application
+StartupNotify=true
+Icon=microsoft-sway
+Categories=Microsoft Online Apps;Office;

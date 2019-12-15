@@ -1,0 +1,28 @@
+microsoft-office-shortcuts (0.3.1-extras-19.10.0) eoan; urgency=medium
+
+  * Add To Do
+
+ -- Lorenzo Carbonell <lorenzo.carbonell.cerezo@gmail.com>  Sat, 14 Dec 2019 09:55:15 +0100
+
+microsoft-office-shortcuts (0.3.0-extras-19.10.0) eoan; urgency=medium
+
+  * Add Calendar
+  * Add OneDrive
+  * Add People
+  * Add Sway
+
+ -- Lorenzo Carbonell <lorenzo.carbonell.cerezo@gmail.com>  Sat, 14 Dec 2019 09:39:42 +0100
+
+microsoft-office-shortcuts (0.2.0-extras-19.10.0) eoan; urgency=medium
+
+  * Add Outlook
+  * Add OneNote
+  * Move icons to hicolor
+
+ -- Lorenzo Carbonell <lorenzo.carbonell.cerezo@gmail.com>  Sat, 14 Dec 2019 09:21:09 +0100
+
+microsoft-office-shortcuts (0.1.0-extras-19.10.0) eoan; urgency=medium
+
+  * First version
+
+ -- Lorenzo Carbonell <lorenzo.carbonell.cerezo@gmail.com>  Fri, 13 Dec 2019 06:30:55 +0100

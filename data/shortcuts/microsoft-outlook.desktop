@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name = Microsoft Outlook
+Comment = Microsoft Outlook Online App
+Exec = xdg-open 'https://outlook.live.com/mail/0/inbox'
+Terminal=false
+Type=Application
+StartupNotify=true
+Icon=microsoft-outlook
+Categories=Microsoft Online Apps;Office;

@@ -1,0 +1,2 @@
+data/shortcuts/*.desktop usr/share/applications
+data/icons/*.svg usr/share/icons/hicolor/scalable/apps/

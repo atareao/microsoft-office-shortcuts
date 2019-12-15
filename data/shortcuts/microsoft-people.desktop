@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name = Microsoft People
+Comment = Microsoft People Online App
+Exec = xdg-open 'https://outlook.live.com/people/0/'
+Terminal=false
+Type=Application
+StartupNotify=true
+Icon=microsoft-people
+Categories=Microsoft Online Apps;Office;

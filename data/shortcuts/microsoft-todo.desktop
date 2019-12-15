@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name = Microsoft To Do
+Comment = Microsoft To Do Online App
+Exec = xdg-open 'https://to-do.microsoft.com/tasks/'
+Terminal=false
+Type=Application
+StartupNotify=true
+Icon=microsoft-todo
+Categories=Microsoft Online Apps;Office;

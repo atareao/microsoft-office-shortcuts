@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name = Microsoft Power Point
+Comment = Microsoft Power Point Online App
+Exec = xdg-open 'https://www.office.com/launch/powerpoint'
+Terminal=false
+Type=Application
+StartupNotify=true
+Icon=microsoft-power-point
+Categories=Microsoft Online Apps;Office;

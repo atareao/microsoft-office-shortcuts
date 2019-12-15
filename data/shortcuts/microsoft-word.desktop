@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name = Microsoft Word
+Comment = Microsoft Word Online App
+Exec = xdg-open 'https://www.office.com/launch/word'
+Terminal=false
+Type=Application
+StartupNotify=true
+Icon=microsoft-word
+Categories=Microsoft Online Apps;Office;

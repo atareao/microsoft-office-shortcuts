@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name = Microsoft Excel
+Comment = Microsoft Excel Online App
+Exec = xdg-open 'https://www.office.com/launch/excel'
+Terminal=false
+Type=Application
+StartupNotify=true
+Icon=microsoft-excel
+Categories=Microsoft Online Apps;Office;

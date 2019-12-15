@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name = Microsoft Calendar
+Comment = Microsoft Calendar Online App
+Exec = xdg-open 'https://outlook.live.com/calendar/0/view/month'
+Terminal=false
+Type=Application
+StartupNotify=true
+Icon=microsoft-calendar
+Categories=Microsoft Online Apps;Office;
